@@ -1,0 +1,2 @@
+class PasswordReminder < ApplicationRecord
+end

@@ -1,0 +1,2 @@
+class RegistrationTokensController < ApplicationController
+end

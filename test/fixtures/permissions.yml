@@ -1,11 +1,6 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  internal_name: MyString
-  name: MyString
-  description: MyString
-
-two:
-  internal_name: MyString
-  name: MyString
-  description: MyString
+  internal_name: doom_and_gloom
+  name: Doom and Gloom
+  description: Doom and possibly some associated gloom.
